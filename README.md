@@ -23,6 +23,8 @@
 * We can convert all investment and generated energy amount findings into numberical values and aggregate them to derive a final number for both inversment amount and generated energy
 * This numbers will not be reliable but can be useful to have an idea
 * For the labels for whether if companies are investing in solarparks, we can just take the max
+* LLMs can be used to extract more relevant information from data.
+* For LLM use, one-shot prompting can be useful to extract just the data needed.
 
 
 ## Notes
@@ -30,6 +32,7 @@
 * Results still can be inspected manually from the final_results.csv file
 * Overall, I really enjoyed tyring to solve this challenge. When it comes to data scraping possibilities and tools are almost endless :)
 * I tried a lot of methods to get away just with HTMP parsing but Google didn't let me get away with it. I am not sure why. :/
+* Event though I wasn't able to use LLMs because of my time limitations, rule-based approach seems to work just fine while being computationally cheaper.
 
 
 ## Disclaimer
